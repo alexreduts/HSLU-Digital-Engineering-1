@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhslu_digital_engineering_1=self.webpackChunkhslu_digital_engineering_1||[]).push([[9700],{5688:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
