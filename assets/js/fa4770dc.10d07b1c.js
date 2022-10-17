@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhslu_digital_engineering_1=self.webpackChunkhslu_digital_engineering_1||[]).push([[8737],{3515:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/HSLU-Digital-Engineering-1/blog/tags/hello","allTagsPath":"/HSLU-Digital-Engineering-1/blog/tags","count":2}')}}]);

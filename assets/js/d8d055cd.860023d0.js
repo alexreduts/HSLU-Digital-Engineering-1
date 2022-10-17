@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhslu_digital_engineering_1=self.webpackChunkhslu_digital_engineering_1||[]).push([[7274],{2382:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/HSLU-Digital-Engineering-1/blog/tags/docusaurus","allTagsPath":"/HSLU-Digital-Engineering-1/blog/tags","count":4}')}}]);
